@@ -1,4 +1,3 @@
 # Front End Patikası Ödevim İçin Google Ana Sayfası'nı Düzenlendim
 
-### Ekran Görüntüsü
-
+-Google ana sayfasını yeniden düzenleyip güncelledim
